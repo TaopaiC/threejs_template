@@ -1,3 +1,6 @@
 [submodule "web_modules/three"]
 	path = web_modules/three
 	url = https://github.com/mrdoob/three.js.git
+[submodule "web_modules/webvr-polyfill"]
+	path = web_modules/webvr-polyfill
+	url = https://github.com/borismus/webvr-polyfill.git
