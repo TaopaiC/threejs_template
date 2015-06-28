@@ -1,0 +1,2 @@
+curl -o VRControls.js https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/js/controls/VRControls.js
+curl -o VREffect.js https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/js/effects/VREffect.js
