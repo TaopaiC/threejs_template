@@ -4,3 +4,6 @@
 [submodule "web_modules/webvr-polyfill"]
 	path = web_modules/webvr-polyfill
 	url = https://github.com/borismus/webvr-polyfill.git
+[submodule "web_modules/webvr-boilerplate"]
+	path = web_modules/webvr-boilerplate
+	url = https://github.com/borismus/webvr-boilerplate.git
