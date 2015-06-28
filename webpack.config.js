@@ -5,7 +5,7 @@ var path = require('path');
 module.exports = {
   context: __dirname,
   entry: {
-    app: './app/javascripts/app.js'
+    base: './app/javascripts/app/base.js'
   },
   output: {
     path: path.join(__dirname, 'build'),

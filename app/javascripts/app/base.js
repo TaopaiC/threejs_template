@@ -1,8 +1,8 @@
 /* global document Image */
 
 import THREE from 'three';
-import Engine from './engine';
-import world from './world';
+import Engine from '../engine';
+import world from '../world';
 
 var engine;
 
